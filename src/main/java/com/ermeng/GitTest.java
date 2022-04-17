@@ -6,7 +6,7 @@ package com.ermeng;
  */
 public class GitTest {
     public static void main(String[] args) {
-        //git的练习
+        //git的merge练习
         System.out.println("hello git");
         System.out.println("hello git2");
         System.out.println("hot-fix test!");
